@@ -1,6 +1,6 @@
-# webpack_simple
+# webpack_simple_1
 
-This repo imports the module exported by the repo rollup_simple_3 (https://github.com/ajrothwell/rollup_simple_3).
+This repo imports the module exported by the repo rollup_simple_1 (https://github.com/ajrothwell/rollup_simple_1).
 
 src/index.js then imports:
 
@@ -18,4 +18,4 @@ this leaves behind, unimported:
 
 { foofunc } from 'rollup_simple_3'
 
-It can be seen in action live at https://ajrothwell.github.io/webpack_simple/dist/
+It can be seen in action live at https://ajrothwell.github.io/webpack_simple_1/dist/
