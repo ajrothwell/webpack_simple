@@ -4,11 +4,26 @@
 
   </head>
   <body>
-    TEST
-    <div id="test"></div>
-    <div id="test2"></div>
-    <div id="test3"></div>
-    <div id="test4"></div>
+    <h1>webpack_simple</h1>
+    <h3>successful demonstration of tree-shaking</h3>
+
+    <div>The square function, imported from 'src/localFunctions.js'</div>
+    <div id="square-value"></div>
+    <br><br>
+
+    <div>The multiply function, imported from 'rollup_simple_3'</div>
+    <div id="multiply-value"></div>
+    <br><br>
+
+    <div>The barfunc function, imported from 'rollup_simple_3'</div>
+    <div id="barfunc-value"></div>
+    <br><br>
+
+    <div>The double function, imported from 'rollup_simple_3'</div>
+    <div id="double-value"></div>
+
+    <div>bundle.js does not contain any of the other functions from these modules</div>
+
     <script src="bundle.js"></script>
   </body>
 </html>
