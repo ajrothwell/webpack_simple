@@ -1,3 +1,4 @@
 # webpack_simple
-this was used with rollup_simple_3 for testing simple tree-shaking
 
+This repo imports the module exported by the repo rollup_simple_3 (https://github.com/ajrothwell/rollup_simple_3),
+and successfully demonstrates tree-shaking.
