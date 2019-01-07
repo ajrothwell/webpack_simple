@@ -1,0 +1,21 @@
+{
+  "name": "webpack_simple",
+  "sideEffects": false,
+  "version": "1.0.0",
+  "main": "",
+  "license": "MIT",
+  "scripts": {
+    "build": "cross-env NODE_ENV=production npx webpack --display-modules",
+    "dev": "cross-env NODE_ENV=development webpack-dev-server"
+  },
+  "dependencies": {
+    "rollup_simple_3": "https://github.com/ajrothwell/rollup_simple_3#3fb97b5f8e1e535f25c0a6ca5f117a7fdcfdf9d5",
+    "webpack-visualizer-plugin": "^0.1.11"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  }
+}
