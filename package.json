@@ -9,7 +9,7 @@
     "dev": "cross-env NODE_ENV=development webpack-dev-server"
   },
   "dependencies": {
-    "rollup_simple_3": "https://github.com/ajrothwell/rollup_simple_3#3fb97b5f8e1e535f25c0a6ca5f117a7fdcfdf9d5",
+    "rollup_simple_3": "https://github.com/ajrothwell/rollup_simple_1#d839c188367e7d92d750c4c2ad5c427dc08b5c0f",
     "webpack-visualizer-plugin": "^0.1.11"
   },
   "devDependencies": {
