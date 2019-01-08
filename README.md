@@ -19,3 +19,4 @@ this leaves behind, unimported:
 { foofunc } from 'rollup_simple_1'
 
 It can be seen in action live at https://ajrothwell.github.io/webpack_simple_1/dist/
+It can be analyzed in action live at https://ajrothwell.github.io/webpack_simple_1/dist/statistics.html
