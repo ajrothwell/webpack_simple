@@ -2810,9 +2810,9 @@ ripemd160@^2.0.0, ripemd160@^2.0.1:
     hash-base "^3.0.0"
     inherits "^2.0.1"
 
-"rollup_simple_1@https://github.com/ajrothwell/rollup_simple_1#d839c188367e7d92d750c4c2ad5c427dc08b5c0f":
+"rollup_simple_1@https://github.com/ajrothwell/rollup_simple_1#7fc51d478bb819b04d9f20283ec225dc22057860":
   version "1.0.0"
-  resolved "https://github.com/ajrothwell/rollup_simple_1#d839c188367e7d92d750c4c2ad5c427dc08b5c0f"
+  resolved "https://github.com/ajrothwell/rollup_simple_1#7fc51d478bb819b04d9f20283ec225dc22057860"
 
 run-async@^2.2.0:
   version "2.3.0"
